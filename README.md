@@ -5,6 +5,7 @@
 - **Timelines Time Tracking** - [TestFlight](https://testflight.apple.com/join/zxFgcULE)
 - **Power Player Music Player** - [TestFlight](https://testflight.apple.com/join/U5KJ4ejE)
 - **Tally** • **Quick Counter -** [TestFlight](https://testflight.apple.com/join/zbUiqcxg)
+- **Lock Launcher** - Interactive Home Widget [TestFlight](https://testflight.apple.com/join/LAl8MicM)
 
 ## How to Contribute
 
